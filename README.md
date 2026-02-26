@@ -8,7 +8,7 @@ A new Flutter project.
 <img width="332" height="574" alt="image" src="https://github.com/user-attachments/assets/d0afc267-2258-4457-98ec-61cf17c0d654" />
 <img width="388" height="634" alt="image" src="https://github.com/user-attachments/assets/f6e8fbe4-471e-40f3-a613-33f1845156d3" />
 
-##Script
+## Script
 Lenguaje dart, flutter. Nivel principiante. 
 
 Ejemplo de navegacion entre 3 paginas utilizando rutas nombradas desde main. 
